@@ -1,5 +1,5 @@
 import { getRepository, IsNull } from 'typeorm';
-import Orphanages from '../models/Orgphanage';
+import Orphanages from '../models/Orphanage';
 import { Request, Response } from 'express';
 
 
